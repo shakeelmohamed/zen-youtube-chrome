@@ -12,8 +12,8 @@ A simple Google Chrome extension to redirect YouTube videos to [Zen Audio Player
 
 * To make using [Zen Audio Player](http://zen-audio-player.github.io/) a little bit easier
 
-This code is based on [dont-watch-later](https://github.com/shakeelmohamed/dont-watch-later): a simple Google Chrome extension to disable autoplay for videos from your YouTube playlists.
+ This code is based on [dont-watch-later](https://github.com/shakeelmohamed/dont-watch-later): a simple Google Chrome extension to disable    autoplay for videos from your YouTube playlists.
 
-# License
+## License
 
 [MIT](LICENSE)
